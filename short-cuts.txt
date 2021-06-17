@@ -1,1 +1,2 @@
 ctrl + -  折叠代码
+alt+ insert 构造方法
