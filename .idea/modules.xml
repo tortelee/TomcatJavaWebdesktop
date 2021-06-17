@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/TomcatJavaWeb.iml" filepath="$PROJECT_DIR$/TomcatJavaWeb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TomcatJavaWebDesktop.iml" filepath="$PROJECT_DIR$/TomcatJavaWebDesktop.iml" />
     </modules>
   </component>
 </project>
