@@ -25,3 +25,12 @@ serverSocket--> serverSocketImpl.implAccept(Socket s)-->(PlainSocketImpl)SocketI
 plainSocket  TCP
 DualStackImpl  TCP/IP
 
+### nmap to test the UDP port
+one of the things we love most about Nmap is the fact that it  works for both TCP and UDP protocols.
+And while most services run on TCP, you can also get a great advantage by scanning UDP based services.
+Let see example:
+namp UDP scanning results using "-sU" parameter
+`nmap -sU localhost`
+Standard TCP scanning output:
+`nmap -sT 192.168.1.1`
+
