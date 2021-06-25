@@ -1,2 +1,4 @@
 ctrl + -  折叠代码
 alt+ insert 构造方法
+生成变量： ctrl + alter + V
+全部注销：  ctrl + /

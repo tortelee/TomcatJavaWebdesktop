@@ -34,3 +34,7 @@ namp UDP scanning results using "-sU" parameter
 Standard TCP scanning output:
 `nmap -sT 192.168.1.1`
 
+### seperator
+"\r\n"
+dilimiter
+
